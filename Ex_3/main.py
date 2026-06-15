@@ -1,6 +1,5 @@
 import json
 
-
 with open('player.json', 'r') as player:
     data = json.load(player)
 
