@@ -1,0 +1,12 @@
+{
+    "Eldrin": {
+        "level": 15,
+        "gold": 250,
+        "health": 100
+    },
+    "Arthas": {
+        "level": 30,
+        "gold": 500,
+        "health": 200
+    }
+}
