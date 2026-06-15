@@ -1,0 +1,38 @@
+{
+    "Eldrin": {
+        "level": 15,
+        "gold": 250,
+        "health": 100
+    },
+    "Arthas": {
+        "level": 30,
+        "gold": 500,
+        "health": 200
+    },
+    "Gandalf": {
+        "level": 99,
+        "gold": 10000,
+        "health": 500
+    },
+    "Thorin": {
+        "level": 22,
+        "gold": 750,
+        "health": 180
+    },
+    "Sylvana": {
+        "level": 18,
+        "gold": 420,
+        "health": 130
+    },
+    "Kael": {
+        "level": 40,
+        "gold": 1200,
+        "health": 250
+    },
+    "Morgana": {
+        "level": 55,
+        "gold": 3000,
+        "health": 350
+    }
+
+}
